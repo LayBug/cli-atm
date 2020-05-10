@@ -42,4 +42,4 @@ Card No: 6209954609895884
 
 ```
 
-Well, just for fun. Please any errors I failed to handle. Gosh...😁
+Well, just for fun. Please forgive any errors I failed to handle. Gosh...😁
